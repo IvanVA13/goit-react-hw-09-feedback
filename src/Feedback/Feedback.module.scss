@@ -1,0 +1,19 @@
+.btn-list {
+  display: inline-flex;
+  justify-content: space-between;
+  width: 240px;
+}
+
+.btn-list-item {
+}
+
+.btn {
+  display: block;
+  width: 100%;
+  padding: 10px;
+
+  background-color: #ffffff;
+  border: 1px solid #f8a85e;
+  border-radius: 4px;
+  cursor: pointer;
+}

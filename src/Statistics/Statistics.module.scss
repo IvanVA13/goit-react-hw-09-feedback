@@ -1,0 +1,32 @@
+.stat-list {
+  margin: 0;
+  padding: 0 10px;
+}
+
+.feedback {
+  margin: 0;
+  margin-bottom: 10px;
+  padding: 5px 0;
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #0535f7;
+  &::first-letter {
+    text-transform: capitalize;
+  }
+}
+
+.value {
+  padding-left: 7px;
+}
+
+.count-stat {
+  margin: 0;
+  padding: 5px 0;
+
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  color: #c705f7;
+}
